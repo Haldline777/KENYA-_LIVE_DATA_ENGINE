@@ -1,3 +1,4 @@
 timestamp,city,live_temperature_c,historical_baseline_c,climate_deviation,anomaly_detected,kenya_public_sentiment_score,overall_social_mood
 2026-09-18 06:57:00,Nairobi,23.5,24.0,-0.5,No,,
 2026-09-18 08:26:22,Nairobi,23.5,,-0.5,,0.13,Positive 🟩
+2026-09-18 09:08:38,Nairobi,23.5,,-0.5,,0.13,Positive 🟩
