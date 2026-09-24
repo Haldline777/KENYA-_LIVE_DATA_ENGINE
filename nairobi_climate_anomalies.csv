@@ -1,2 +1,7 @@
-timestamp,city,live_temperature_c,historical_baseline_c,climate_deviation,anomaly_detected
-2026-09-18 06:57:00,Nairobi,23.5,24.0,-0.5,No
+timestamp,city,live_temperature_c,historical_baseline_c,climate_deviation,anomaly_detected,kenya_public_sentiment_score,overall_social_mood,satellite_grid_status,satellite_layer_type
+2026-09-18 06:57:00,Nairobi,23.5,24.0,-0.5,No,,,,
+2026-09-24 14:58:05,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,SUCCESS,Image
+2026-09-24 14:58:12,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,SUCCESS,Image
+2026-09-24 14:58:21,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,SUCCESS,Image
+2026-09-24 15:03:31,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,SUCCESS,Image
+2026-09-24 15:13:54,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,SUCCESS,Image
