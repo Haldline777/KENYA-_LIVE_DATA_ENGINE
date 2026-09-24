@@ -1,10 +1,11 @@
-timestamp,city,live_temperature_c,historical_baseline_c,climate_deviation,anomaly_detected,kenya_public_sentiment_score,overall_social_mood
-2026-09-18 06:57:00,Nairobi,23.5,24.0,-0.5,No,,
-2026-09-18 08:26:22,Nairobi,23.5,,-0.5,,0.13,Positive 🟩
-2026-09-18 09:08:38,Nairobi,23.5,,-0.5,,0.13,Positive 🟩
-2026-09-19 03:52:40,Nairobi,23.5,,-0.5,,0.13,Positive 🟩
-2026-09-20 04:09:43,Nairobi,23.5,,-0.5,,0.13,Positive 🟩
-2026-09-21 04:07:05,Nairobi,23.5,,-0.5,,0.13,Positive 🟩
-2026-09-22 04:03:56,Nairobi,23.5,,-0.5,,0.13,Positive 🟩
-2026-09-23 04:00:36,Nairobi,23.5,,-0.5,,0.13,Positive 🟩
-2026-09-24 03:55:42,Nairobi,23.5,,-0.5,,0.13,Positive 🟩
+timestamp,city,live_temperature_c,historical_baseline_c,climate_deviation,anomaly_detected,kenya_public_sentiment_score,overall_social_mood,satellite_grid_status,satellite_layer_type
+2026-09-18 06:57:00,Nairobi,23.5,24.0,-0.5,No,,,,
+2026-09-18 08:26:22,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,,
+2026-09-18 09:08:38,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,,
+2026-09-19 03:52:40,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,,
+2026-09-20 04:09:43,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,,
+2026-09-21 04:07:05,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,,
+2026-09-22 04:03:56,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,,
+2026-09-23 04:00:36,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,,
+2026-09-24 03:55:42,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,,
+2026-09-24 16:43:16,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,OFFLINE,UNKNOWN
