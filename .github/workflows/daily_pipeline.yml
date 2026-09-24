@@ -20,8 +20,15 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Install Data Analysis Packages
-      run: pip install requests pandas textblob
+    - name: Install Data Analysis & Satellite Packages
+      # 💡 UPDATED: Added earthengine-api to the installation layer
+      run: pip install requests pandas textblob earthengine-api
+
+    - name: Configure Secure Earth Engine Token Handshake
+      # 💡 ADDED: Creates the hidden credentials folder and drops your secure token into the cloud runner
+      run: |
+        mkdir -p ~/.config/earthengine
+        echo '${{ secrets.EARTHENGINE_TOKEN }}' > ~/.config/earthengine/credentials
 
     - name: Execute Live Scraper Script
       run: python pipeline.py
