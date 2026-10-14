@@ -30,3 +30,4 @@ timestamp,city,live_temperature_c,historical_baseline_c,climate_deviation,anomal
 2026-10-11 04:54:14,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,OFFLINE,UNKNOWN
 2026-10-12 05:08:48,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,OFFLINE,UNKNOWN
 2026-10-13 06:08:13,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,OFFLINE,UNKNOWN
+2026-10-14 04:11:03,Nairobi,23.5,,-0.5,,0.13,Positive 🟩,OFFLINE,UNKNOWN
