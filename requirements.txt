@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+folium
+streamlit-folium
+earthengine-api
+requests
+textblob
+plotly
